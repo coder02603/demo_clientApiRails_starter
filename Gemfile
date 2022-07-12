@@ -26,8 +26,8 @@ gem 'jbuilder', '~> 2.7'
 # gem 'image_processing', '~> 1.2'
 
 ### ADDED GEMS
-# gem 'jquery-rails'
-# gem 'bootstrap', '~> 5.1', '>= 5.1.3'
+gem 'jquery-rails'
+gem 'bootstrap', '~> 5.1', '>= 5.1.3'
 # gem 'rest-client', '~> 2.1' 
 # gem 'figaro', '~> 1.2'
 
