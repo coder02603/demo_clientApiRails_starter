@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Starting source code for client-side API call implementation on Ruby on Rails.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This tutorial will cover the following topics:
+* How to create API call on Rails
+* How to process response from an API call on Rails
+* Error handling
+* Useful Gems & Postman 
+* Environment Variables
